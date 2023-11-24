@@ -30,7 +30,7 @@
     "docusaurus-plugin-hotjar": "^0.0.2",
     "docusaurus-plugin-openapi-docs": "^1.1.7",
     "docusaurus-theme-openapi-docs": "^1.1.8",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "postcss": "^8.4.14",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
